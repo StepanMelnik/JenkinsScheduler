@@ -1,4 +1,4 @@
-"# JenkinsScheduler" 
+# JenkinsScheduler
 Allows to schedule a bunch of jobs in the same place.
 
 ## Description
